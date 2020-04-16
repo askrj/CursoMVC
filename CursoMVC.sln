@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{F8958F1C-3FF5-4D29-AE1E-F15CE5C1E5AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{C3D1E1A7-EBAC-451A-A2DD-218F7D4C11F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{EB4EEDB8-3B05-4E7D-B57A-019EAB93D08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8958F1C-3FF5-4D29-AE1E-F15CE5C1E5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8958F1C-3FF5-4D29-AE1E-F15CE5C1E5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8958F1C-3FF5-4D29-AE1E-F15CE5C1E5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8958F1C-3FF5-4D29-AE1E-F15CE5C1E5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D1E1A7-EBAC-451A-A2DD-218F7D4C11F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D1E1A7-EBAC-451A-A2DD-218F7D4C11F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D1E1A7-EBAC-451A-A2DD-218F7D4C11F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D1E1A7-EBAC-451A-A2DD-218F7D4C11F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4EEDB8-3B05-4E7D-B57A-019EAB93D08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4EEDB8-3B05-4E7D-B57A-019EAB93D08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4EEDB8-3B05-4E7D-B57A-019EAB93D08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4EEDB8-3B05-4E7D-B57A-019EAB93D08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8736B94A-AA2E-45B2-9CDC-BF0B99969BC4}
+	EndGlobalSection
+EndGlobal
